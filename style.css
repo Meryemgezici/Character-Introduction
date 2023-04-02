@@ -228,14 +228,12 @@ header button {
 } */
 
 
-/* .reyna-gif {
-    margin: 0;
-    padding: 0;
+.reyna-gif {
     height: 100vh;
     background-image: url(/images/reyna.gif);
     background-repeat: no-repeat;
     background-size: cover;
-} */
+}
 
 .news {
     color: white;
